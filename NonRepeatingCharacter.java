@@ -7,7 +7,7 @@ public class NonRepeatingCharacter {
 
   public static void main(String[] args) {
   
-        String str = " aaccgbbdee";
+        String str = "accgbbdee";
         HashMap<Character,Integer> hmap = new HashMap <Character,Integer>();
         
         int lengthOfString = str.length();
@@ -32,5 +32,3 @@ public class NonRepeatingCharacter {
          }
        }
   }
-
-}
