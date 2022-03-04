@@ -1,6 +1,6 @@
 package ComProg2;
 
-import java.sql.Array;
+import java.util.Array;
 
 
 public class CheckifAnagram {
